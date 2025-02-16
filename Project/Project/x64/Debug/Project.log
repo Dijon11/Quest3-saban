@@ -1,0 +1,6 @@
+﻿  database.cpp
+  personal.cpp
+C:\Users\Dijon\source\repos\Project\personal.cpp(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  student.cpp
+  Generating Code...
+  Project.vcxproj -> C:\Users\Dijon\source\repos\Project\x64\Debug\Project.exe
